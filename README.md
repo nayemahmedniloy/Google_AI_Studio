@@ -4,7 +4,7 @@ A native android application to use Google AI Studio with the AI models like Gem
 
 Experience the power of Google AI.
 
-Download the android application: <div><a href="https://nayemahmedniloy.github.io/MySPES/aosp-tag-tracker.html">visit</a></div>
+<div><p>To Download the android application:</p><a href="https://github.com/nayemahmedniloy/Google_AI_Studio/releases/">visit</a></div>
 
 ## Available Google AI Models
 
