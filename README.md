@@ -11,7 +11,7 @@ Download the android application: <div><a href="https://nayemahmedniloy.github.i
 - `Gemini 1.0 Pro, Gemini 1.5 Flash, Gemini 1.5 Pro &amp; Gemma 2`
 
 ## Features
-
+- `Developed with React Native`
 - `Native Android Application`
 - `Get access to Google developed AI models`
 ## License
