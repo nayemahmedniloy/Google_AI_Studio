@@ -2,8 +2,8 @@
   "expo": {
     "name": "GoogleAIStudio",
     "slug": "GoogleAIStudio",
-    "version": "1.0.0-beta",
-    "orientation": "portrait",
+    "version": "1.0.1-beta",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
@@ -28,13 +28,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
-      [
-        "expo-screen-orientation",
-        {
-          "initialOrientation": "DEFAULT"
-        }
-      ]
+      "expo-router"
     ],
     "experiments": {
       "typedRoutes": true
